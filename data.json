@@ -1,4 +1,11 @@
 {
   "lastUpdated": "2026-01-30T11:23:00.000Z",
-  "stocks": []
+  "stocks": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "cbsScore": 61,
+      "date": "2026-01-30T12:04:31.836462"
+    }
+  ]
 }
