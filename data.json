@@ -1,17 +1,11 @@
 {
-  "lastUpdated": "2026-01-30T11:23:00.000Z",
+  "lastUpdated": "2026-01-30T13:38:54.269030",
   "stocks": [
     {
       "symbol": "2330",
-      "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "cbsScore": 61,
-      "date": "2026-01-30T12:04:31.836462"
-    },
-    {
-      "symbol": "2428",
-      "name": "Thinking Electronic Industrial Co., Ltd.",
-      "cbsScore": 75,
-      "date": "2026-01-30T12:37:27.965328"
+      "name": "台積電",
+      "cbsScore": 91,
+      "date": "2026-01-30T13:38:54.268778"
     }
   ]
 }
